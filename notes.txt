@@ -1,0 +1,14 @@
+Camera
+Map
+Entity
+
+Generating the map is going to be controlled by the package for section generation.
+Hero entity's are going to need to do pathfinding, and decision makin.
+
+  Is the entity itself going to make the decisions? Or is there going to be a global manager?
+  How many heroes are going to try and storm the castle at a time?
+  
+  What about the enemy units? Are they going to be more intelligent as well?
+  
+  I think the entities themselves need to decide what to do, based on what they have seen, and what
+  is available to them, and what is visible.
